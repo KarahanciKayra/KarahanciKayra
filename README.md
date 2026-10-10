@@ -25,7 +25,7 @@ Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber hazırlıyor veya yaz�
 ### Diller
 |  Çalışabildiğim Diller  | Öğrendiğim/Planladığım Diller |
 |---|---|
-| 🇹🇷 / 🇦🇿 / 🇺🇸 | 🇯🇵 (N5) / 🇬🇷 |
+| 🇹🇷 / 🇺🇸 | 🇯🇵 (N5) / 🇬🇷 |
 <!-- kendime not: Pontusca için emoji ara.-->
 
 ## Projelerim ve Rehberlerim
