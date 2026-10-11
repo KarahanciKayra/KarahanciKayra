@@ -18,9 +18,7 @@ Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber hazırlıyor veya yaz�
 [![My Skills](https://skillicons.dev/icons?i=bun,cs,python,linux,androidstudio,java,vscodium)](https://skillicons.dev)
 
 ### İletişim
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bgmkayra@proton.me)
-[![Matrix](https://img.shields.io/badge/Matrix-8A2BE2?logo=matrix&logoColor=white)](https://matrix.to/#/@krhkayra:matrix.org)
-<!-- Burası biraz sade kaldı. Burası için iletişim kanalları eklesem iyi olur. Belki Matrix fln? -->
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:!)
 
 ### Diller
 |  Çalışabildiğim Diller  | Öğrendiğim/Planladığım Diller |
